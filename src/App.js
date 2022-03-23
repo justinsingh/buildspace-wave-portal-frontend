@@ -211,7 +211,7 @@ export default function App() {
         </div>
 
         <div className="bio">
-        Leave a message using the Ethereum blockchain! 
+        Leave a message on the Rinkeby Testnet! 
         </div>
 
         <div className="bio">
